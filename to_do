@@ -1,0 +1,73 @@
+Temel api kavramları
+    api nedir
+    api ne işe yarar
+    api nerelerde kullanılır
+Restful api
+SOAP
+GraphQL
+HTTP metotları
+json ve xml veri türleri
+url yapısı
+query params
+path params
+api tanımı ve tarihçesi
+rest api ve soap arası farklar
+api ile nasıl veri çekilir
+api çağrıları nasıl yapılır
+python'da request modülü ile http istekleri yapma
+api anahtarları ve authentication
+rate limiting ve throttling kavramları
+request modülü ile api çağrıları
+authentication yööntemleri
+api anahtarları
+api dökümantasyonlarını okuma ve anlama
+swagger ve postman
+python'da flask kullanarak api endpointleri oluşturma
+python'da fastapi kullanarak api endpointleri oluşturma
+get ve post endpointleri oluşturma
+api den veri alma
+api ile veri gönderme
+Flask ile api geliştirme
+fastapi ile api geliştirme
+enpoint kavramı ve crud işlemleri
+url'lerin dinamik parametreleri ile çalışma
+api ve veritabanı arasındaki iletişim
+postgresql veri tabanına api ile veri kaydetme ve çekme
+sqlalchemy kütüphanesini kullanma
+psycopg2 kütüphanesini kullanma
+transaction yönetimi ve hata kontrolü
+sqlalchemy ile flask veritabanını kullanma
+crud işlemleri ile veritabanı yönetimi
+veritabanı migrationları
+schema tasarımı
+api projesini modüllere ayırma ve farklı modüller arası iletişim
+microservice mimarisi : her fonksiyonun bağımsız bir serviste çalışması
+api gatewey kullanımı
+modüller arası veri alışverişi ile ortak veri tabanı bağlantıları
+load balancing
+APiyi güvenli hale getirme yolları
+JWT ile oturum yönetimi
+https kullanımı ve güvenlik sertifikaları
+rate limiting ve CORS yönetimi
+JWT ve OAuth2 authentication yönetimi
+API'ın doğru çalıştığından nasıl emin oluruz
+postman ile manuel testler yapma
+pytest ve unittest ile otomatik testler yazma
+api mocklama ve test ortamları
+postman ve swagger kullanarak api dökümantasyonları oluşturma
+otomatik test yazımı
+api mocklama taktikleri
+api projesini nasıl yayına alırız
+heroku
+aws
+google cloud gibi platformlar üzerinde api deploy etme
+CI / CD araçları ile otomatik deploy süreçleri
+docker ile api'yi containerize etme
+
+PROJE FİKRİ
+    ENERJİ TÜKETİMİ VE ÜRETİMİ API'I
+    BİR ENERJİ ŞİRKETİNİN TÜKETİCİ VERİLERİNİ API ARACCILI İLE TOPLA
+    TOPLADIĞIM VERİLERİ VERİTABANINA KAYDET
+    GERÇEK ZAMANLI ENERJİ VERİLERİNİ GÖSTEREN BİR ENDOPOİNT
+    FARKLI ENERJİ TÜRLERİNİN ÜRETİM SEVİYELERİNİ ANALİZ EDEN BİR API
+
