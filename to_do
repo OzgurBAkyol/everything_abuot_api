@@ -1,10 +1,10 @@
-Temel api kavramları
-    api nedir
-    api ne işe yarar
-    api nerelerde kullanılır
-Restful api
-SOAP
-GraphQL
++Temel api kavramları
++    api nedir
++    api ne işe yarar
++    api nerelerde kullanılır
++ Restful api
++ SOAP
++ GraphQL
 HTTP metotları
 json ve xml veri türleri
 url yapısı
